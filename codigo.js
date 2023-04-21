@@ -226,7 +226,7 @@ class App{
         if(this.instalada == true){
             this.instalada=false;
             alert("Aplicacion Desinstalada");
-        }
+        }git 
      }
      appInfo(){
         return`
